@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###Django Projects:
+### Django Projects:
 https://github.com/Sondosissa18/capstone-recipe-app
 
 https://github.com/kenzie-se-q4/twitterclone-Kevinwclark
